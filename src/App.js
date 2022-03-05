@@ -9,10 +9,6 @@ function App() {
             <Status title="First" />
             <Status title="Second" />
             <Status title="Third" />
-
-            <StatusClass title="Fourth" />
-            <StatusClass title="Fifth" />
-            <StatusClass title="Six" />
         </div>
     );
 }
